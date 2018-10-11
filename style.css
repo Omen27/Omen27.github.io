@@ -1,0 +1,84 @@
+body {
+	background-image: url(test1.jpg);
+	background-color: rgb(27,35,38);
+	background-repeat: repeat-x;
+	background-size: cover;
+}
+
+h1 {
+	text-shadow: 2px 3px black;
+	font-size: 3em;
+	border: 2px solid #68B159;
+	padding: 10px;
+	border-top-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+	width: 600px;
+	box-shadow: 4px 4px 5px black;
+	text-align: center;
+	margin: auto;
+	margin-top: 100px;
+	color: #68B159;
+	font-family: 'Press Start 2P', cursive;
+		
+}
+
+#div1 {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 20px;
+	color: #68B159;
+	text-shadow: 2px 3px black;
+	/*text-align: right*/;
+	margin-top: 200px;
+	float: right;
+
+}
+
+
+.p1 {
+	border: 1px;
+	padding: 10px;
+	width: 700px;
+	height: 20px;
+	text-align: right;
+
+}
+
+.p2 {
+	border: 1px;
+	padding: 10px;
+	width: 700px;
+	height: 20px;
+	text-align: right;
+}
+
+.p3 {
+	border: 1px;
+	padding: 10px;
+	width: 700px;
+	height: 20px;
+	text-align: right;
+
+}
+
+#div2 {
+	margin-top: 500px;
+	margin-right: 250px;
+	clear: both;
+}
+
+.button {
+	font-family: 'Press Start 2P', cursive;
+	cursor: pointer;
+	background-color: #68B159;
+	border: 2px solid #68B159;
+	padding: 10px;
+	border-radius: 25px;
+	box-shadow: 4px 4px 5px black;
+	/*margin-top: 500px;*/
+	float: right;
+
+}
+
+footer {
+	clear: both;
+	text-align: center;
